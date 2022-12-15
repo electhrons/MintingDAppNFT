@@ -1,0 +1,23 @@
+{
+  "CONTRACT_ADDRESS": "0x8cb55256149d7c53aaf2b5af9df0fa607e34f8e7",
+  "SCAN_LINK": "https://etherscan.io/address/0x8cb55256149d7c53aaf2b5af9df0fa607e34f8e7",
+  "NETWORK": {
+    "NAME": "ETHEREUM",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "CatlandKitten Female dic2022",
+  "SYMBOL": "catlandkittensfem",
+  "MAX_SUPPLY": 10000,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 145000,
+  "MAX_PER_TX": 12,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/catlandKitten-female-dic2022",
+  "Telegram": "https://t.me/ELECTHRON_ELTH",
+  "Discord": "https://disboard.org/es/server/861313067291115541",
+  "Twitter1": "https://twitter.com/Soujiang_ELTH",
+  "Twitter2": "https://twitter.com/electhrons_elth",
+  "Twitter3": "https://twitter.com/lormirian_elth",
+  "SHOW_BACKGROUND": false
+}
