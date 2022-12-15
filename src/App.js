@@ -742,7 +742,7 @@ All the NFTs of our collections participate. It's that easy to participate in ou
     </Panel>
     <Panel header="HOW IS THE TYPE OF CREATURE I WILL HAVE DETERMINED?">
     <s.TextP style={{textAlign: "justify"}}>
-    To understand this, we recommend you read this document. <a href="http://electhrons.org/#nft">"How the DApp works to build the NFT 2.0?"</a> 
+    To understand this, we recommend you read this document. <a href="http://electhrons.org/#nft" target="_blank">"How the DApp works to build the NFT 2.0?"</a> 
           </s.TextP>
     </Panel>
     <Panel header="HOW CAN I BECOME A COLLABORATOR?">
